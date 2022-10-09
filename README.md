@@ -25,6 +25,8 @@ termux-setup-storage
 
  pkg install git
 
+ rm- rf FILE-CLONE
+
  git clone https://github.com/FB-KO/FILE-CLONE
 
  cd FILE-CLONE
